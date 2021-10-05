@@ -1,0 +1,16 @@
+{
+  "name": "vnedu-api",
+  "version": "1.0.0",
+  "description": "Một api xử lí dữ liệu đơn giản bằng ExpressJS để tra cứu điểm vnedu",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "expressjs": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Maihuybao",
+  "license": "ISC"
+}
